@@ -15,6 +15,7 @@
 			<Item Name="New Focus - rétroaction.vi" Type="VI" URL="../VIs/New Focus - rétroaction.vi"/>
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
+			<Item Name="Set Zero Position (SubVI).vi" Type="VI" URL="../VIs/SubVIs/Set Zero Position (SubVI).vi"/>
 			<Item Name="Init Multiple Devices (SubVI).vi" Type="VI" URL="../VIs/SubVIs/Init Multiple Devices (SubVI).vi"/>
 			<Item Name="Get Master Device Adress (SubVI).vi" Type="VI" URL="../VIs/SubVIs/Get Master Device Adress (SubVI).vi"/>
 			<Item Name="Abort Motion (SubVI).vi" Type="VI" URL="../VIs/SubVIs/Abort Motion (SubVI).vi"/>
@@ -36,6 +37,7 @@
 			<Item Name="Config File (SubVI).vi" Type="VI" URL="../VIs/SubVIs/Config File (SubVI).vi"/>
 			<Item Name="Theta(Transmission) (SubVI).vi" Type="VI" URL="../VIs/SubVIs/Theta(Transmission) (SubVI).vi"/>
 			<Item Name="Transmission(Theta) (SubVI).vi" Type="VI" URL="../VIs/SubVIs/Transmission(Theta) (SubVI).vi"/>
+			<Item Name="Get Position (SubVI).vi" Type="VI" URL="../VIs/SubVIs/Get Position (SubVI).vi"/>
 		</Item>
 		<Item Name="Type Def" Type="Folder">
 			<Item Name="Data cluster.ctl" Type="VI" URL="../VIs/Type Def/Data cluster.ctl"/>
